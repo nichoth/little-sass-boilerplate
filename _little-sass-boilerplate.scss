@@ -1,0 +1,10 @@
+@import "../normalize-scss/normalize";
+@import "../q-lists/q-lists";
+@import "../silent-clearfix/silent-clearfix";
+
+// basic stuff
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
