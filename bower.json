@@ -1,0 +1,23 @@
+{
+  "name": "little-sass-boilerplate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nichoth/little-sass-boilerplate",
+  "authors": [
+    "nichoth <nichoth@gmail.com>"
+  ],
+  "description": "Sass boilerplate",
+  "main": "_little-sass-boilerplate.scss",
+  "keywords": [
+    "sass",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
